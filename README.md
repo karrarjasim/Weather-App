@@ -3,7 +3,7 @@
 Simple app to get current weather state, made by flutter using provider state management.<br>
 
 ## Screen shot 
-![screen shot ](https://github.com/karrarjasim/Weather-App/blob/master/screenshot/ScreenShot.png
+![screen shot ](screenshot/ScreenShot.png
 ?raw=true "Home Screen")
 
 ## How to use
